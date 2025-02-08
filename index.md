@@ -1,9 +1,6 @@
-![Ishan Manjrekar](https://res.cloudinary.com/read-cv/image/upload/c_fill,h_92,w_92/dpr_1.0/v1/1/profilePhotos/9nrLJXKb6jMLFCn9WNhWPQTrJJh1/9eca7384-cc84-4b29-8c44-e2bbc7438771.jpg?_a=DATAdtfiZAA0)
+![](assets/profilepicture.png)
 
-Ishan Manjrekar
----------------
-
-Game Designer in Copenhagen, Denmark, He/Him/His
+Copenhagen, Denmark [He/Him/His]
 
 [gamedesignbites.substack.com](http://gamedesignbites.substack.com)
 
@@ -21,30 +18,32 @@ Game Designer in Copenhagen, Denmark, He/Him/His
 
 🎙️Hobbyist podcaster, exploring player behavior through the Playstyle podcast.
 
+---
 ### Side Projects
 
-Ongoing
+**Ongoing**
 
 [Game Design Bites](https://gamedesignbites.substack.com/)
 
 Newsletter to share some of my game design insights honed through years of hands-on expertise!
 
-Ongoing
+**Ongoing**
 
 [Mentoring at ADPList](https://adplist.org/mentors/ishan-manjrekar)
 
 I try and help people with their doubts and concerns regarding Mobile Games, Game UX, Game Design, or general industry insights.
 
-Ongoing
+**Ongoing**
 
 [Playstyle Podcast](https://podcasters.spotify.com/pod/show/playstyle)
 
-\*The game designer's podcast where players speak.\*
+The game designer's podcast where players speak.
 
 Being a game designer for more than a decade, I've worked on games played by billions, but I'm always learning. So here's Playstyle, a podcast where I talk to players about the games they love, hate, and everything in between.
 
 Each episode, I'll chat with a different player to hear their unique perspective on games.
 
+---
 # Work Experience
 
 2022 — Now
@@ -139,16 +138,14 @@ Mumbai, India
 * Conceptualizing new game ideas for various mobile platforms.
 * Designed and produced multiple mobile games for the Nokia Ovi Store based on popular IP.
 
+---
 # Contact
 
 LinkedIn
 
 [ishanmanjrekar](https://linkedin.com/in/ishanmanjrekar)
 
-Podcast
-
-[Playstyle](https://podcasters.spotify.com/pod/show/playstyle)
-
+---
 # Education
 
 2007 — 2010
