@@ -1,8 +1,8 @@
 ![](assets/profilepicture.png)
 
-Copenhagen, Denmark [He/Him/His]
+📍Copenhagen, Denmark [He/Him/His]
 
-[gamedesignbites.substack.com](http://gamedesignbites.substack.com)
+[subscribe to newsletter](http://gamedesignbites.substack.com)
 
 # About
 
@@ -10,7 +10,9 @@ Copenhagen, Denmark [He/Him/His]
 
 📌14+ years in Game Design, specializing in free-to-play mobile and web-based platforms.
 
-⭐Involved in games with over 5 billion cumulative installs. 🪙Core team member on Subway Surfers, responsible for game improvements, and live ops.
+✨Involved in games with over 5 billion cumulative installs.
+
+🪙Core team member on Subway Surfers, responsible for game improvements, and live ops.
 
 ▶️Extensive experience in managing live operations on games as a service.
 
@@ -21,34 +23,24 @@ Copenhagen, Denmark [He/Him/His]
 ---
 ### Side Projects
 
-**Ongoing**
-
 [Game Design Bites](https://gamedesignbites.substack.com/)
 
 Newsletter to share some of my game design insights honed through years of hands-on expertise!
-
-**Ongoing**
 
 [Mentoring at ADPList](https://adplist.org/mentors/ishan-manjrekar)
 
 I try and help people with their doubts and concerns regarding Mobile Games, Game UX, Game Design, or general industry insights.
 
-**Ongoing**
-
 [Playstyle Podcast](https://podcasters.spotify.com/pod/show/playstyle)
 
-The game designer's podcast where players speak.
-
-Being a game designer for more than a decade, I've worked on games played by billions, but I'm always learning. So here's Playstyle, a podcast where I talk to players about the games they love, hate, and everything in between.
-
-Each episode, I'll chat with a different player to hear their unique perspective on games.
+Playstyle, a podcast where I talk to players about the games they love, hate, and everything in between.
 
 ---
 # Work Experience
 
 **2022 — Present**
 
-[Principal Designer at Sybo](https://sybogames.com/)
+Principal Designer at [Sybo](https://sybogames.com/)
 
 Copenhagen, Denmark
 
@@ -63,8 +55,9 @@ Copenhagen, Denmark
     • Dominated as the most downloaded game for multiple months, as well as throughout the past years.  
     • Winner: Best Live Ops, Pocket Gamer Mobile Games Awards 2022
 
-**2021 — 2022**
-[Senior Game Designer at Sybo](https://sybogames.com/)
+**2021 — 2022** 
+
+Senior Game Designer at [Sybo](https://sybogames.com/)
 
 Copenhagen, Denmark
 
@@ -75,7 +68,7 @@ Copenhagen, Denmark
 
 **2018 — 2021**
 
-[Game Designer at Outfit7](https://outfit7.com/)
+Game Designer at [Outfit7](https://outfit7.com/)
 
 Ljubljana, Slovenia
 
@@ -88,7 +81,7 @@ Ljubljana, Slovenia
 
 **2016 — 2018**
 
-[Game Designer at Zynga](https://www.zynga.com/)
+Game Designer at [Zynga](https://www.zynga.com/)
 
 Bengaluru, India
 
@@ -100,7 +93,7 @@ Bengaluru, India
 
 **2014 — 2016**
 
-[Associate Game Designer at Zynga](https://www.zynga.com/)
+Associate Game Designer at [Zynga](https://www.zynga.com/)
 
 Bengaluru, India
 
@@ -116,7 +109,7 @@ Bengaluru, India
 
 **2011 — 2014**
 
-[Game Designer at Games2Win](https://www.linkedin.com/company/games2win-india-pvt-ltd/)
+Game Designer at [Games2Win](https://www.linkedin.com/company/games2win-india-pvt-ltd/)
 
 Mumbai, India
 
@@ -127,7 +120,7 @@ Mumbai, India
 
 **2010 — 2011**
 
-[Junior Game Designer at Synqua Games](https://synqua.com/)
+Junior Game Designer at [Synqua Games](https://synqua.com/)
 
 Mumbai, India
 
@@ -144,8 +137,9 @@ LinkedIn:  [ishanmanjrekar](https://linkedin.com/in/ishanmanjrekar)
 
 **2007 — 2010**
 
-B.A.(Hons.) Digital Media - Game Design at University of Wales, U.K.
+B.A.(Hons.) Digital Media -Game Design at University of Wales, U.K.
 Chennai, India
+
 *IMAGE COLLEGE OF ARTS ANIMATION AND TECHNOLOGY, CHENNAI*
 Affiliated to: University of Wales, U.K.  
 Grade: 2nd Class Honors, Division Two
