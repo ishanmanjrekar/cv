@@ -1,11 +1,5 @@
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-
-title: Ishan Manjrekar | game designer
-
-# Build settings
-markdown: kramdown
-
+theme: minima
 minima:
   skin: dark
+
+title: Ishan Manjrekar | game designer
