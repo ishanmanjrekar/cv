@@ -10,7 +10,9 @@
 
 📌14+ years in Game Design, specializing in free-to-play mobile and web-based platforms.
 
-⭐Involved in games with over 5 billion cumulative installs. 🪙Core team member on Subway Surfers, responsible for game improvements, and live ops.
+✨Involved in games with over 5 billion cumulative installs.
+
+🪙Core team member on Subway Surfers, responsible for game improvements, and live ops.
 
 ▶️Extensive experience in managing live operations on games as a service.
 
