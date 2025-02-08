@@ -64,7 +64,6 @@ Copenhagen, Denmark
     • Winner: Best Live Ops, Pocket Gamer Mobile Games Awards 2022
 
 **2021 — 2022**
-
 [Senior Game Designer at Sybo](https://sybogames.com/)
 
 Copenhagen, Denmark
@@ -105,14 +104,12 @@ Bengaluru, India
 
 Bengaluru, India
 
-<mark>Game: Farmville 2 \[June 2015 – June 2016\]</mark>
+<mark>Game: Farmville 2 [June 2015 – June 2016]</mark>
 
-* Design owner on multiple game optimizations to improve the key metrics for the entire  
-    game.
-* Design owner on multiple weekly cadence features which sustain the baseline performance  
-    of the game.
+* Design owner on multiple game optimizations to improve the key metrics for the entire game.
+* Design owner on multiple weekly cadence features which sustain the baseline performance of the game.
 
-<mark>Game: Draw Something \[July 2014 – June 2015\]</mark>
+<mark>Game: Draw Something [July 2014 – June 2015]</mark>
 
 * Design owner for the day-to-day cadence in the game.
 * Key involvement in launching ‘Speed Guess Something’ as a revamped and updated version of the game with new game mode.
