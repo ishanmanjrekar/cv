@@ -46,14 +46,13 @@ Each episode, I'll chat with a different player to hear their unique perspective
 ---
 # Work Experience
 
-2022 — Now
+**2022 — Present**
 
 [Principal Designer at Sybo](https://sybogames.com/)
 
 Copenhagen, Denmark
 
-Game: Subway Surfers
-
+<mark>Game: Subway Surfers</mark>
 * Playing a key role in shaping the future vision and direction of the game.
 * Owning and executing dynamic live operations that keep players engaged on a seasonal basis.
 * Mentoring and coaching team members to foster knowledge sharing and avoid information silos.
@@ -64,7 +63,7 @@ Game: Subway Surfers
     • Dominated as the most downloaded game for multiple months, as well as throughout the past years.  
     • Winner: Best Live Ops, Pocket Gamer Mobile Games Awards 2022
 
-2021 — 2022
+**2021 — 2022**
 
 [Senior Game Designer at Sybo](https://sybogames.com/)
 
@@ -75,7 +74,7 @@ Copenhagen, Denmark
 * Owning and executing dynamic live operations that keep players engaged on a seasonal basis.
 * Streamlining team collaboration through the implementation of streamlined documentation and meeting systems.
 
-2018 — 2021
+**2018 — 2021**
 
 [Game Designer at Outfit7](https://outfit7.com/)
 
@@ -84,52 +83,52 @@ Ljubljana, Slovenia
 * Innovative vision-holder and product owner, leading new IP development and prototyping initiatives.
 * Expert in-house design overseer for all externally developed games, ensuring game design excellence and alignment with vision.
 * Established streamlined design documentation and feedback processes for seamless collaboration with external partners.
-* Design owner for major updates on My Talking Angela and My Talking Tom 2, games with a combined 1Bn+ lifetime installs.
+* Design owner for major updates on <mark>My Talking Angela</mark> and <mark>My Talking Tom 2</mark>, games with a combined 1Bn+ lifetime installs.
 * Successfully designed and executed a live-operation setup for Tamagotchi-genre game, shaping company strategy for live games.
-* Crafted and implemented game-changing features for the highly acclaimed My Talking Tom Friends, reaching 100 million installs in its first month of release.
+* Crafted and implemented game-changing features for the highly acclaimed <mark>My Talking Tom Friends</mark>, reaching 100 million installs in its first month of release.
 
-2016 — 2018
+**2016 — 2018**
 
 [Game Designer at Zynga](https://www.zynga.com/)
 
 Bengaluru, India
 
-Game: Farmville 2
+<mark>Game: Farmville 2</mark>
 
 * Design owner for new short as well as long term cadence features and events.
 * Involved in making key product decisions along with the product managers and the system designers.
 * Key involvement in the co-ordination with the different disciplines to ensure timely delivery of the product without compromising on the quality.
 
-2014 — 2016
+**2014 — 2016**
 
 [Associate Game Designer at Zynga](https://www.zynga.com/)
 
 Bengaluru, India
 
-Game: Farmville 2 \[June 2015 – June 2016\]
+<mark>Game: Farmville 2 \[June 2015 – June 2016\]</mark>
 
 * Design owner on multiple game optimizations to improve the key metrics for the entire  
     game.
 * Design owner on multiple weekly cadence features which sustain the baseline performance  
     of the game.
 
-Game: Draw Something \[July 2014 – June 2015\]
+<mark>Game: Draw Something \[July 2014 – June 2015\]</mark>
 
 * Design owner for the day-to-day cadence in the game.
 * Key involvement in launching ‘Speed Guess Something’ as a revamped and updated version of the game with new game mode.
 
-2011 — 2014
+**2011 — 2014**
 
 [Game Designer at Games2Win](https://www.linkedin.com/company/games2win-india-pvt-ltd/)
 
 Mumbai, India
 
 * Leading the mobile game design team.
-* Game Designer on Parking Frenzy 2.0, which went on to become #1 iOS App in the world in 2012.
+* Game Designer on <mark>Parking Frenzy 2.0</mark>, which went on to become #1 iOS App in the world in 2012.
 * Designed and launched 10+ casual game titles on all the major mobile platforms – Android, iOS, Amazon Kindle, Windows Phone.
 * Overseeing the production process for multiple games including effective co-ordination with internal as well as external development teams.
 
-2010 — 2011
+**2010 — 2011**
 
 [Junior Game Designer at Synqua Games](https://synqua.com/)
 
@@ -141,19 +140,15 @@ Mumbai, India
 ---
 # Contact
 
-LinkedIn
-
-[ishanmanjrekar](https://linkedin.com/in/ishanmanjrekar)
+LinkedIn:  [ishanmanjrekar](https://linkedin.com/in/ishanmanjrekar)
 
 ---
 # Education
 
-2007 — 2010
+**2007 — 2010**
 
 B.A.(Hons.) Digital Media - Game Design at University of Wales, U.K.
-
 Chennai, India
-
-IMAGE COLLEGE OF ARTS ANIMATION AND TECHNOLOGY, CHENNAI  
+*IMAGE COLLEGE OF ARTS ANIMATION AND TECHNOLOGY, CHENNAI*
 Affiliated to: University of Wales, U.K.  
 Grade: 2nd Class Honors, Division Two
