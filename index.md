@@ -2,11 +2,12 @@
 
 📍Copenhagen, Denmark [He/Him/His]
 
-[subscribe to newsletter](http://gamedesignbites.substack.com)
-
-# About
-
 📒Reach out for [FREE mentorship here](https://adplist.org/mentors/ishan-manjrekar)
+
+📒Subscribe to [newsletter here](http://gamedesignbites.substack.com)
+
+---
+# About
 
 📌14+ years in Game Design, specializing in free-to-play mobile and web-based platforms.
 
