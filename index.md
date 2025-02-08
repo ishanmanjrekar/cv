@@ -1,6 +1,6 @@
 ![](assets/profilepicture.png)
 
-Copenhagen, Denmark [He/Him/His]
+📍Copenhagen, Denmark [He/Him/His]
 
 [subscribe to newsletter](http://gamedesignbites.substack.com)
 
@@ -38,7 +38,7 @@ Playstyle, a podcast where I talk to players about the games they love, hate, an
 
 **2022 — Present**
 
-[Principal Designer at Sybo](https://sybogames.com/)
+Principal Designer at [Sybo](https://sybogames.com/)
 
 Copenhagen, Denmark
 
@@ -55,7 +55,7 @@ Copenhagen, Denmark
 
 **2021 — 2022** 
 
-[Senior Game Designer at Sybo](https://sybogames.com/)
+Senior Game Designer at [Sybo](https://sybogames.com/)
 
 Copenhagen, Denmark
 
@@ -66,7 +66,7 @@ Copenhagen, Denmark
 
 **2018 — 2021**
 
-[Game Designer at Outfit7](https://outfit7.com/)
+Game Designer at [Outfit7](https://outfit7.com/)
 
 Ljubljana, Slovenia
 
@@ -79,7 +79,7 @@ Ljubljana, Slovenia
 
 **2016 — 2018**
 
-[Game Designer at Zynga](https://www.zynga.com/)
+Game Designer at [Zynga](https://www.zynga.com/)
 
 Bengaluru, India
 
@@ -91,7 +91,7 @@ Bengaluru, India
 
 **2014 — 2016**
 
-[Associate Game Designer at Zynga](https://www.zynga.com/)
+Associate Game Designer at [Zynga](https://www.zynga.com/)
 
 Bengaluru, India
 
@@ -107,7 +107,7 @@ Bengaluru, India
 
 **2011 — 2014**
 
-[Game Designer at Games2Win](https://www.linkedin.com/company/games2win-india-pvt-ltd/)
+Game Designer at [Games2Win](https://www.linkedin.com/company/games2win-india-pvt-ltd/)
 
 Mumbai, India
 
@@ -118,7 +118,7 @@ Mumbai, India
 
 **2010 — 2011**
 
-[Junior Game Designer at Synqua Games](https://synqua.com/)
+Junior Game Designer at [Synqua Games](https://synqua.com/)
 
 Mumbai, India
 
@@ -135,8 +135,9 @@ LinkedIn:  [ishanmanjrekar](https://linkedin.com/in/ishanmanjrekar)
 
 **2007 — 2010**
 
-B.A.(Hons.) Digital Media - Game Design at University of Wales, U.K.
+B.A.(Hons.) Digital Media -Game Design at University of Wales, U.K.
 Chennai, India
+
 *IMAGE COLLEGE OF ARTS ANIMATION AND TECHNOLOGY, CHENNAI*
 Affiliated to: University of Wales, U.K.  
 Grade: 2nd Class Honors, Division Two
