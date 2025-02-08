@@ -1,15 +1,11 @@
-remote_theme: jekyll-minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
-skin: dark
-
-title: Ishan Manjrekar
-subtitle: game designer
-
-# Optional settings
-description: A brief description of your site
-author: Your Name
+title: Ishan Manjrekar | game designer
 
 # Build settings
 markdown: kramdown
+
+minima:
+  skin: dark
