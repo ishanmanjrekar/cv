@@ -1,8 +1,14 @@
 remote_theme: jekyll/minima
+
 plugins:
   - jekyll-remote-theme
 
-minima:
-  skin: dark
+title: Ishan Manjrekar
+subtitle: game designer
 
-title: "ishan manjrekar | game designer" # Replace "[Your Name]" with your first and last name.
+# Optional settings
+description: A brief description of your site
+author: Your Name
+
+# Build settings
+markdown: kramdown
