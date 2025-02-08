@@ -63,7 +63,8 @@ Copenhagen, Denmark
     • Dominated as the most downloaded game for multiple months, as well as throughout the past years.  
     • Winner: Best Live Ops, Pocket Gamer Mobile Games Awards 2022
 
-**2021 — 2022**
+**2021 — 2022** 
+
 [Senior Game Designer at Sybo](https://sybogames.com/)
 
 Copenhagen, Denmark
