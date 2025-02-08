@@ -138,10 +138,10 @@ LinkedIn:  [ishanmanjrekar](https://linkedin.com/in/ishanmanjrekar)
 
 **2007 — 2010**
 
-B.A.(Hons.) Digital Media - Game Design at University of Wales, U.K.
+B.A.(Hons.) Digital Media - Game Design
 
 Chennai, India
 
-IMAGE COLLEGE OF ARTS ANIMATION AND TECHNOLOGY, CHENNAI
+Image College of Arts, Animation, and Technology
 
 *Affiliated to: University of Wales, U.K.* 
