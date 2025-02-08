@@ -1,4 +1,5 @@
 theme: minima
+minima:
+  skin: dark
 
-title: "ishan manjrekar" # Replace "[Your Name]" with your first and last name.
-description: "GAME DESIGNER"
+title: "ISHAN MANJREKAR | game designer" # Replace "[Your Name]" with your first and last name.
