@@ -2,7 +2,7 @@
 
 Copenhagen, Denmark [He/Him/His]
 
-[gamedesignbites.substack.com](http://gamedesignbites.substack.com)
+[subscribe to newsletter](http://gamedesignbites.substack.com)
 
 # About
 
@@ -21,27 +21,17 @@ Copenhagen, Denmark [He/Him/His]
 ---
 ### Side Projects
 
-**Ongoing**
-
 [Game Design Bites](https://gamedesignbites.substack.com/)
 
 Newsletter to share some of my game design insights honed through years of hands-on expertise!
-
-**Ongoing**
 
 [Mentoring at ADPList](https://adplist.org/mentors/ishan-manjrekar)
 
 I try and help people with their doubts and concerns regarding Mobile Games, Game UX, Game Design, or general industry insights.
 
-**Ongoing**
-
 [Playstyle Podcast](https://podcasters.spotify.com/pod/show/playstyle)
 
-The game designer's podcast where players speak.
-
-Being a game designer for more than a decade, I've worked on games played by billions, but I'm always learning. So here's Playstyle, a podcast where I talk to players about the games they love, hate, and everything in between.
-
-Each episode, I'll chat with a different player to hear their unique perspective on games.
+Playstyle, a podcast where I talk to players about the games they love, hate, and everything in between.
 
 ---
 # Work Experience
