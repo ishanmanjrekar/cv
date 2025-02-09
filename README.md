@@ -2,11 +2,12 @@
 
 📍Copenhagen, Denmark [He/Him/His]
 
-[subscribe to newsletter](http://gamedesignbites.substack.com)
-
-# About
-
 📒Reach out for [FREE mentorship here](https://adplist.org/mentors/ishan-manjrekar)
+
+📒Subscribe to [newsletter here](http://gamedesignbites.substack.com)
+
+---
+# About
 
 📌14+ years in Game Design, specializing in free-to-play mobile and web-based platforms.
 
@@ -38,9 +39,9 @@ Playstyle, a podcast where I talk to players about the games they love, hate, an
 ---
 # Work Experience
 
-**2022 — Present**
+*2022 — Present*
 
-Principal Designer at [Sybo](https://sybogames.com/)
+**Principal Designer at [Sybo](https://sybogames.com/)**
 
 Copenhagen, Denmark
 
@@ -55,9 +56,9 @@ Copenhagen, Denmark
     • Dominated as the most downloaded game for multiple months, as well as throughout the past years.  
     • Winner: Best Live Ops, Pocket Gamer Mobile Games Awards 2022
 
-**2021 — 2022** 
+*2021 — 2022*
 
-Senior Game Designer at [Sybo](https://sybogames.com/)
+**Senior Game Designer at [Sybo](https://sybogames.com/)**
 
 Copenhagen, Denmark
 
@@ -66,9 +67,9 @@ Copenhagen, Denmark
 * Owning and executing dynamic live operations that keep players engaged on a seasonal basis.
 * Streamlining team collaboration through the implementation of streamlined documentation and meeting systems.
 
-**2018 — 2021**
+*2018 — 2021*
 
-Game Designer at [Outfit7](https://outfit7.com/)
+**Game Designer at [Outfit7](https://outfit7.com/)**
 
 Ljubljana, Slovenia
 
@@ -79,9 +80,9 @@ Ljubljana, Slovenia
 * Successfully designed and executed a live-operation setup for Tamagotchi-genre game, shaping company strategy for live games.
 * Crafted and implemented game-changing features for the highly acclaimed <mark>My Talking Tom Friends</mark>, reaching 100 million installs in its first month of release.
 
-**2016 — 2018**
+*2016 — 2018*
 
-Game Designer at [Zynga](https://www.zynga.com/)
+**Game Designer at [Zynga](https://www.zynga.com/)**
 
 Bengaluru, India
 
@@ -91,9 +92,9 @@ Bengaluru, India
 * Involved in making key product decisions along with the product managers and the system designers.
 * Key involvement in the co-ordination with the different disciplines to ensure timely delivery of the product without compromising on the quality.
 
-**2014 — 2016**
+*2014 — 2016*
 
-Associate Game Designer at [Zynga](https://www.zynga.com/)
+**Associate Game Designer at [Zynga](https://www.zynga.com/)**
 
 Bengaluru, India
 
@@ -107,9 +108,9 @@ Bengaluru, India
 * Design owner for the day-to-day cadence in the game.
 * Key involvement in launching ‘Speed Guess Something’ as a revamped and updated version of the game with new game mode.
 
-**2011 — 2014**
+*2011 — 2014*
 
-Game Designer at [Games2Win](https://www.linkedin.com/company/games2win-india-pvt-ltd/)
+**Game Designer at [Games2Win](https://www.linkedin.com/company/games2win-india-pvt-ltd/)**
 
 Mumbai, India
 
@@ -118,9 +119,9 @@ Mumbai, India
 * Designed and launched 10+ casual game titles on all the major mobile platforms – Android, iOS, Amazon Kindle, Windows Phone.
 * Overseeing the production process for multiple games including effective co-ordination with internal as well as external development teams.
 
-**2010 — 2011**
+*2010 — 2011*
 
-Junior Game Designer at [Synqua Games](https://synqua.com/)
+**Junior Game Designer at [Synqua Games](https://synqua.com/)**
 
 Mumbai, India
 
@@ -135,11 +136,12 @@ LinkedIn:  [ishanmanjrekar](https://linkedin.com/in/ishanmanjrekar)
 ---
 # Education
 
-**2007 — 2010**
+*2007 — 2010*
 
-B.A.(Hons.) Digital Media -Game Design at University of Wales, U.K.
+**B.A.(Hons.) Digital Media - Game Design**
+
+Image College of Arts, Animation, and Technology
+
 Chennai, India
 
-*IMAGE COLLEGE OF ARTS ANIMATION AND TECHNOLOGY, CHENNAI*
-Affiliated to: University of Wales, U.K.  
-Grade: 2nd Class Honors, Division Two
+*Affiliated to: University of Wales, U.K.* 
