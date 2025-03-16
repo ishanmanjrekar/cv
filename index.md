@@ -98,12 +98,12 @@ Bengaluru, India
 
 Bengaluru, India
 
-<mark>Game: Farmville 2 [June 2015 – June 2016]</mark>
+<mark>Game: Farmville 2</mark>
 
 * Design owner on multiple game optimizations to improve the key metrics for the entire game.
 * Design owner on multiple weekly cadence features which sustain the baseline performance of the game.
 
-<mark>Game: Draw Something [July 2014 – June 2015]</mark>
+<mark>Game: Draw Something</mark>
 
 * Design owner for the day-to-day cadence in the game.
 * Key involvement in launching ‘Speed Guess Something’ as a revamped and updated version of the game with new game mode.
