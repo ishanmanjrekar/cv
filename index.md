@@ -46,10 +46,13 @@ Playstyle, a podcast where I talk to players about the games they love, hate, an
 Copenhagen, Denmark
 
 <mark>Game: Subway Surfers</mark>
-* Led end-to-end design of a major structural game redesign from concept to launch, while maintaining live operations.
-* Playing a key role in shaping the future vision and direction of the game.
-* Owning and executing dynamic live operations that keep players engaged on a seasonal basis.
-* Mentoring and coaching team members to foster knowledge sharing and avoid information silos.
+* Leading an end-to-end structural game redesign from concept to launch while sustaining live
+operations.
+* Owning and executing seasonal live operations to drive sustained player engagement.
+* Owner across multiple feature targeting key product KPIs.
+* Contributing to defining the long-term vision and strategic direction of the game.
+* Mentoring and coaching game designers and product managers, strengthening shared game
+understanding and team effectiveness
 * Part of the core team, which in the last couple of years has achieved:  
     • A skyrocketed growth in DAU and baseline revenue.  
     • Instrumental in driving significant improvements in retention and engagement, leading to outstanding growth.  
