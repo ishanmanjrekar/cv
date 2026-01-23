@@ -5,8 +5,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ishan Manjrekar | Principal Game Designer</title>
+
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="Ishan Manjrekar | Principal Game Designer">
     <meta name="description"
-        content="Principal Game Designer specializing in free-to-play mobile and web-based platforms. Core team at Sybo, Subway Surfers.">
+        content="Principal Game Designer specializing in free-to-play mobile and web-based platforms. Involved in games with 5B+ installs including Subway Surfers.">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://ishanmanjrekar.github.io/cv/">
+    <meta property="og:title" content="Ishan Manjrekar | Principal Game Designer">
+    <meta property="og:description"
+        content="Principal Game Designer specializing in free-to-play mobile and web-based platforms. Involved in games with 5B+ installs.">
+    <meta property="og:image" content="assets/profilepicture.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://ishanmanjrekar.github.io/cv/">
+    <meta property="twitter:title" content="Ishan Manjrekar | Principal Game Designer">
+    <meta property="twitter:description"
+        content="Principal Game Designer specializing in free-to-play mobile and web-based platforms. Involved in games with 5B+ installs.">
+    <meta property="twitter:image" content="assets/profilepicture.png">
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -15,22 +34,73 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="assets/css/style.css">
+
+    <!-- Favicon -->
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🕹️</text></svg>">
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Ishan Manjrekar",
+      "jobTitle": "Principal Game Designer",
+      "url": "https://ishanmanjrekar.github.io/cv/",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Copenhagen",
+        "addressCountry": "Denmark"
+      },
+      "sameAs": [
+        "https://linkedin.com/in/ishanmanjrekar",
+        "https://adplist.org/mentors/ishan-manjrekar"
+      ]
+    }
+    </script>
 </head>
 
 <body>
+    <div class="mesh-bg">
+        <div class="mesh-circle c1"></div>
+        <div class="mesh-circle c2"></div>
+        <div class="mesh-circle c3"></div>
+    </div>
+
+    <button class="print-btn" onclick="window.print()" aria-label="Print or save as PDF">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M6 9V2h12v7"></path>
+            <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path>
+            <rect x="6" y="14" width="12" height="8"></rect>
+        </svg>
+    </button>
+
+    <nav id="sticky-nav">
+        <a href="#about" class="nav-link">About</a>
+        <a href="#experience" class="nav-link">Experience</a>
+        <a href="#side-projects" class="nav-link">Projects</a>
+        <a href="#education" class="nav-link">Education</a>
+    </nav>
+
     <div class="container animate">
         <header>
             <div class="profile-container">
-                <img src="assets/profilepicture.png" alt="Ishan Manjrekar" class="profile-img">
+                <img src="assets/profilepicture.png" alt="Ishan Manjrekar" class="profile-img" loading="lazy">
             </div>
             <h1>Ishan Manjrekar</h1>
             <p class="tagline">Principal Game Designer / 📍 Copenhagen, Denmark [He/Him]</p>
 
             <div class="contact-chips">
-                <a href="https://linkedin.com/in/ishanmanjrekar" class="chip">LinkedIn</a>
-                <a href="https://adplist.org/mentors/ishan-manjrekar" class="chip">Free Mentorship</a>
-                <a href="http://gamedesignbites.substack.com" class="chip">Newsletter</a>
-                <a href="https://podcasters.spotify.com/pod/show/playstyle" class="chip">Podcast</a>
+                <a href="https://linkedin.com/in/ishanmanjrekar" class="chip" target="_blank" rel="noopener noreferrer"
+                    aria-label="Visit Ishan's LinkedIn profile">💼 LinkedIn</a>
+                <a href="https://adplist.org/mentors/ishan-manjrekar" class="chip" target="_blank"
+                    rel="noopener noreferrer" aria-label="Book a free mentorship session on ADPList">🎓 Free
+                    Mentorship</a>
+                <a href="http://gamedesignbites.substack.com" class="chip" target="_blank" rel="noopener noreferrer"
+                    aria-label="Subscribe to Ishan's Game Design Bites newsletter">📬 Newsletter</a>
+                <a href="https://podcasters.spotify.com/pod/show/playstyle" class="chip" target="_blank"
+                    rel="noopener noreferrer" aria-label="Listen to the Playstyle Podcast on Spotify">🎧 Podcast</a>
             </div>
         </header>
 
@@ -51,10 +121,10 @@
                 <div class="experience-item">
                     <div class="exp-header">
                         <div class="exp-title">Principal Designer at <a href="https://sybogames.com/"
-                                class="exp-company">Sybo</a></div>
+                                class="exp-company" target="_blank" rel="noopener noreferrer">Sybo</a></div>
                         <div class="exp-date">2022 — Present</div>
                     </div>
-                    <div class="exp-location">Copenhagen, Denmark</div>
+                    <div class="exp-location">📍 Copenhagen, Denmark</div>
                     <div class="exp-content">
                         <p><mark>Game: Subway Surfers</mark></p>
                         <ul>
@@ -72,10 +142,10 @@
                 <div class="experience-item">
                     <div class="exp-header">
                         <div class="exp-title">Senior Game Designer at <a href="https://sybogames.com/"
-                                class="exp-company">Sybo</a></div>
+                                class="exp-company" target="_blank" rel="noopener noreferrer">Sybo</a></div>
                         <div class="exp-date">2021 — 2022</div>
                     </div>
-                    <div class="exp-location">Copenhagen, Denmark</div>
+                    <div class="exp-location">📍 Copenhagen, Denmark</div>
                     <div class="exp-content">
                         <ul>
                             <li>Developing game-changing experiences for Subway Surfers (4B+ lifetime installs).</li>
@@ -88,11 +158,11 @@
                 <!-- Outfit7 -->
                 <div class="experience-item">
                     <div class="exp-header">
-                        <div class="exp-title">Game Designer at <a href="https://outfit7.com/"
-                                class="exp-company">Outfit7</a></div>
+                        <div class="exp-title">Game Designer at <a href="https://outfit7.com/" class="exp-company"
+                                target="_blank" rel="noopener noreferrer">Outfit7</a></div>
                         <div class="exp-date">2018 — 2021</div>
                     </div>
-                    <div class="exp-location">Ljubljana, Slovenia</div>
+                    <div class="exp-location">📍 Ljubljana, Slovenia</div>
                     <div class="exp-content">
                         <p><mark>Games: My Talking Angela, My Talking Tom 2, My Talking Tom Friends</mark></p>
                         <ul>
@@ -106,11 +176,11 @@
                 <!-- Zynga - Senior/Lead -->
                 <div class="experience-item">
                     <div class="exp-header">
-                        <div class="exp-title">Game Designer at <a href="https://www.zynga.com/"
-                                class="exp-company">Zynga</a></div>
+                        <div class="exp-title">Game Designer at <a href="https://www.zynga.com/" class="exp-company"
+                                target="_blank" rel="noopener noreferrer">Zynga</a></div>
                         <div class="exp-date">2014 — 2018</div>
                     </div>
-                    <div class="exp-location">Bengaluru, India</div>
+                    <div class="exp-location">📍 Bengaluru, India</div>
                     <div class="exp-content">
                         <p><mark>Games: Farmville 2, Draw Something</mark></p>
                         <ul>
@@ -125,11 +195,11 @@
                 <div class="experience-item">
                     <div class="exp-header">
                         <div class="exp-title">Game Designer at <a
-                                href="https://www.linkedin.com/company/games2win-india-pvt-ltd/"
-                                class="exp-company">Games2Win</a></div>
+                                href="https://www.linkedin.com/company/games2win-india-pvt-ltd/" class="exp-company"
+                                target="_blank" rel="noopener noreferrer">Games2Win</a></div>
                         <div class="exp-date">2011 — 2014</div>
                     </div>
-                    <div class="exp-location">Mumbai, India</div>
+                    <div class="exp-location">📍 Mumbai, India</div>
                     <div class="exp-content">
                         <ul>
                             <li>Leading the mobile game design team.</li>
@@ -144,17 +214,20 @@
         <section id="side-projects">
             <h2>Side Projects</h2>
             <div class="projects-grid">
-                <a href="https://gamedesignbites.substack.com/" class="project-card">
+                <a href="https://gamedesignbites.substack.com/" class="project-card" target="_blank"
+                    rel="noopener noreferrer" aria-label="Visit Game Design Bites newsletter">
                     <h3>Game Design Bites</h3>
                     <p>Newsletter to share some of my game design insights honed through years of hands-on expertise!
                     </p>
                 </a>
-                <a href="https://adplist.org/mentors/ishan-manjrekar" class="project-card">
+                <a href="https://adplist.org/mentors/ishan-manjrekar" class="project-card" target="_blank"
+                    rel="noopener noreferrer" aria-label="See Ishan's mentorship profile on ADPList">
                     <h3>Mentoring at ADPList</h3>
                     <p>I try and help people with their doubts and concerns regarding Mobile Games, Game UX, Game
                         Design, or general industry insights.</p>
                 </a>
-                <a href="https://podcasters.spotify.com/pod/show/playstyle" class="project-card">
+                <a href="https://podcasters.spotify.com/pod/show/playstyle" class="project-card" target="_blank"
+                    rel="noopener noreferrer" aria-label="Listen to the Playstyle Podcast">
                     <h3>Playstyle Podcast</h3>
                     <p>A podcast where I talk to players about the games they love, hate, and everything in between.</p>
                 </a>
@@ -175,11 +248,52 @@
         </section>
 
         <footer>
-            <p style="text-align: center; color: var(--text-secondary); font-size: 0.8rem; margin-top: 40px;">
-                &copy; 2026 Ishan Manjrekar. Built with Antigravity.
-            </p>
+            <p>&copy; <span id="year"></span> Ishan Manjrekar. Built with Google Antigravity.</p>
         </footer>
     </div>
+
+    <script>
+        // Update year
+        document.getElementById('year').textContent = new Date().getFullYear();
+
+        // Nav & Scroll reveal logic
+        const nav = document.getElementById('sticky-nav');
+        const sections = document.querySelectorAll('section');
+        const navLinks = document.querySelectorAll('.nav-link');
+
+        const observerOptions = {
+            threshold: 0.2,
+            rootMargin: '0px 0px -10% 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+
+                    // Update active nav link
+                    const id = entry.target.getAttribute('id');
+                    navLinks.forEach(link => {
+                        link.classList.remove('active');
+                        if (link.getAttribute('href') === `#${id}`) {
+                            link.classList.add('active');
+                        }
+                    });
+                }
+            });
+        }, observerOptions);
+
+        sections.forEach(section => observer.observe(section));
+
+        // Show/Hide nav based on scroll
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 300) {
+                nav.classList.add('visible');
+            } else {
+                nav.classList.remove('visible');
+            }
+        });
+    </script>
 </body>
 
 </html>
