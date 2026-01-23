@@ -449,16 +449,44 @@ h2::after {
 .exp-content li {
     position: relative;
     padding-left: 24px;
-    margin-bottom: 12px;
+    margin-bottom: 14px;
     color: var(--text-secondary);
     list-style: none;
 }
 
-.exp-content li::before {
+/* Primary Bullet Symbol */
+.exp-content>ul>li::before {
     content: '→';
     position: absolute;
     left: 0;
     color: var(--accent-primary);
+    opacity: 0.8;
+    font-weight: 700;
+}
+
+/* Nested List Hierarchy */
+.exp-content ul ul {
+    margin-top: 10px;
+    margin-bottom: 4px;
+    padding-left: 20px;
+    /* Indent sub-bullets */
+}
+
+.exp-content ul ul li {
+    font-size: 0.95em;
+    /* Slightly smaller sub-bullets */
+    margin-bottom: 8px;
+    opacity: 0.9;
+}
+
+/* Nested Bullet Symbol */
+.exp-content ul ul li::before {
+    content: '•';
+    position: absolute;
+    left: 0;
+    color: var(--accent-secondary);
+    opacity: 0.6;
+    font-size: 1.2em;
 }
 
 mark {
