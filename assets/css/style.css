@@ -201,8 +201,8 @@ nav.visible {
     }
 }
 
-/* Print Button */
-.print-btn {
+/* Download CV Button */
+.download-btn {
     position: fixed;
     top: 20px;
     right: 20px;
@@ -223,7 +223,7 @@ nav.visible {
     transition: all 0.2s ease;
 }
 
-.print-btn:hover {
+.download-btn:hover {
     transform: scale(1.1);
     color: var(--text-primary);
     border-color: var(--accent-primary);
@@ -558,7 +558,7 @@ footer p {
 
     .mesh-bg,
     nav,
-    .print-btn,
+    .download-btn,
     .profile-container::after {
         display: none !important;
     }
