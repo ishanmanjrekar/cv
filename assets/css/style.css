@@ -19,6 +19,27 @@
     --shadow-sm: 0 2px 4px rgba(24, 24, 22, 0.02);
     --shadow-md: 0 4px 12px rgba(24, 24, 22, 0.04);
     --shadow-lg: 0 16px 32px rgba(24, 24, 22, 0.06);
+
+    /* Game Brand Badge Custom Variables */
+    --badge-subway-bg: rgba(242, 114, 38, 0.07);
+    --badge-subway-text: #a8470a;
+    --badge-subway-border: rgba(242, 114, 38, 0.18);
+    
+    --badge-talking-bg: rgba(32, 156, 238, 0.07);
+    --badge-talking-text: #0e64a3;
+    --badge-talking-border: rgba(32, 156, 238, 0.18);
+    
+    --badge-farmville-bg: rgba(46, 125, 50, 0.07);
+    --badge-farmville-text: #236327;
+    --badge-farmville-border: rgba(46, 125, 50, 0.18);
+    
+    --badge-draw-bg: rgba(224, 153, 36, 0.07);
+    --badge-draw-text: #965a00;
+    --badge-draw-border: rgba(224, 153, 36, 0.18);
+    
+    --badge-parking-bg: rgba(211, 47, 47, 0.07);
+    --badge-parking-text: #a61c1c;
+    --badge-parking-border: rgba(211, 47, 47, 0.18);
 }
 
 /* Explicit Light Mode Override */
@@ -35,6 +56,27 @@
     --shadow-sm: 0 2px 4px rgba(24, 24, 22, 0.02);
     --shadow-md: 0 4px 12px rgba(24, 24, 22, 0.04);
     --shadow-lg: 0 16px 32px rgba(24, 24, 22, 0.06);
+
+    /* Game Brand Badge Custom Variables */
+    --badge-subway-bg: rgba(242, 114, 38, 0.07);
+    --badge-subway-text: #a8470a;
+    --badge-subway-border: rgba(242, 114, 38, 0.18);
+    
+    --badge-talking-bg: rgba(32, 156, 238, 0.07);
+    --badge-talking-text: #0e64a3;
+    --badge-talking-border: rgba(32, 156, 238, 0.18);
+    
+    --badge-farmville-bg: rgba(46, 125, 50, 0.07);
+    --badge-farmville-text: #236327;
+    --badge-farmville-border: rgba(46, 125, 50, 0.18);
+    
+    --badge-draw-bg: rgba(224, 153, 36, 0.07);
+    --badge-draw-text: #965a00;
+    --badge-draw-border: rgba(224, 153, 36, 0.18);
+    
+    --badge-parking-bg: rgba(211, 47, 47, 0.07);
+    --badge-parking-text: #a61c1c;
+    --badge-parking-border: rgba(211, 47, 47, 0.18);
 }
 
 /* Explicit Dark Mode Override */
@@ -51,6 +93,27 @@
     --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.2);
     --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.3);
     --shadow-lg: 0 16px 32px rgba(0, 0, 0, 0.4);
+
+    /* Game Brand Badge Custom Variables */
+    --badge-subway-bg: rgba(242, 114, 38, 0.12);
+    --badge-subway-text: #ffa266;
+    --badge-subway-border: rgba(242, 114, 38, 0.28);
+    
+    --badge-talking-bg: rgba(32, 156, 238, 0.12);
+    --badge-talking-text: #7cd0ff;
+    --badge-talking-border: rgba(32, 156, 238, 0.28);
+    
+    --badge-farmville-bg: rgba(76, 175, 80, 0.12);
+    --badge-farmville-text: #94e097;
+    --badge-farmville-border: rgba(76, 175, 80, 0.28);
+    
+    --badge-draw-bg: rgba(224, 153, 36, 0.12);
+    --badge-draw-text: #ffd07d;
+    --badge-draw-border: rgba(224, 153, 36, 0.28);
+    
+    --badge-parking-bg: rgba(239, 83, 80, 0.12);
+    --badge-parking-text: #ff9e9e;
+    --badge-parking-border: rgba(239, 83, 80, 0.28);
 }
 
 /* Automatic System Preference Fallback */
@@ -68,6 +131,27 @@
         --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.2);
         --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.3);
         --shadow-lg: 0 16px 32px rgba(0, 0, 0, 0.4);
+
+        /* Game Brand Badge Custom Variables */
+        --badge-subway-bg: rgba(242, 114, 38, 0.12);
+        --badge-subway-text: #ffa266;
+        --badge-subway-border: rgba(242, 114, 38, 0.28);
+        
+        --badge-talking-bg: rgba(32, 156, 238, 0.12);
+        --badge-talking-text: #7cd0ff;
+        --badge-talking-border: rgba(32, 156, 238, 0.28);
+        
+        --badge-farmville-bg: rgba(76, 175, 80, 0.12);
+        --badge-farmville-text: #94e097;
+        --badge-farmville-border: rgba(76, 175, 80, 0.28);
+        
+        --badge-draw-bg: rgba(224, 153, 36, 0.12);
+        --badge-draw-text: #ffd07d;
+        --badge-draw-border: rgba(224, 153, 36, 0.28);
+        
+        --badge-parking-bg: rgba(239, 83, 80, 0.12);
+        --badge-parking-text: #ff9e9e;
+        --badge-parking-border: rgba(239, 83, 80, 0.28);
     }
 }
 
@@ -623,6 +707,55 @@ mark {
     padding: 2px 6px;
     border-radius: 4px;
     font-weight: 500;
+}
+
+/* Custom Game Brand Badges (Suggestion 2) */
+.game-badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 2px 8px;
+    border-radius: 6px;
+    font-size: 0.88rem;
+    font-weight: 500;
+    line-height: 1.35;
+    margin: 2px 0;
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    border: 1px solid var(--border-color);
+}
+
+.game-badge:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.04);
+}
+
+.game-badge.badge-subway {
+    background-color: var(--badge-subway-bg);
+    color: var(--badge-subway-text);
+    border-color: var(--badge-subway-border);
+}
+
+.game-badge.badge-talking {
+    background-color: var(--badge-talking-bg);
+    color: var(--badge-talking-text);
+    border-color: var(--badge-talking-border);
+}
+
+.game-badge.badge-farmville {
+    background-color: var(--badge-farmville-bg);
+    color: var(--badge-farmville-text);
+    border-color: var(--badge-farmville-border);
+}
+
+.game-badge.badge-draw {
+    background-color: var(--badge-draw-bg);
+    color: var(--badge-draw-text);
+    border-color: var(--badge-draw-border);
+}
+
+.game-badge.badge-parking {
+    background-color: var(--badge-parking-bg);
+    color: var(--badge-parking-text);
+    border-color: var(--badge-parking-border);
 }
 
 /* Side Projects Grid */
