@@ -214,8 +214,12 @@ body {
     animation: move 30s infinite alternate ease-in-out;
 }
 
+:root[data-theme="dark"] .mesh-circle {
+    opacity: 0.06;
+}
+
 @media (prefers-color-scheme: dark) {
-    .mesh-circle {
+    :root:not([data-theme="light"]) .mesh-circle {
         opacity: 0.06;
     }
 }
@@ -532,8 +536,12 @@ h3 {
     background: rgba(255, 255, 255, 0.25);
 }
 
+:root[data-theme="dark"] .chip:hover {
+    background: rgba(22, 23, 20, 0.4);
+}
+
 @media (prefers-color-scheme: dark) {
-    .chip:hover {
+    :root:not([data-theme="light"]) .chip:hover {
         background: rgba(22, 23, 20, 0.4);
     }
 }
@@ -785,8 +793,13 @@ mark {
     background: rgba(255, 255, 255, 0.8);
 }
 
+:root[data-theme="dark"] .project-card:hover {
+    background: rgba(22, 23, 20, 0.85);
+    box-shadow: var(--shadow-lg), 0 10px 24px -10px rgba(212, 179, 135, 0.15);
+}
+
 @media (prefers-color-scheme: dark) {
-    .project-card:hover {
+    :root:not([data-theme="light"]) .project-card:hover {
         background: rgba(22, 23, 20, 0.85);
         box-shadow: var(--shadow-lg), 0 10px 24px -10px rgba(212, 179, 135, 0.15);
     }
