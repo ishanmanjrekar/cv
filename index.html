@@ -31,7 +31,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Roboto+Mono:wght@400;500&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap"
         rel="stylesheet">
 
     <!-- Styles -->
@@ -60,6 +60,12 @@
       ]
     }
     </script>
+    <script>
+        // Set theme immediately to avoid layout flash
+        const savedTheme = localStorage.getItem('theme');
+        const theme = savedTheme || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', theme);
+    </script>
 </head>
 
 <body>
@@ -68,6 +74,27 @@
         <div class="mesh-circle c2"></div>
         <div class="mesh-circle c3"></div>
     </div>
+
+    <button class="theme-btn" id="theme-toggle" aria-label="Toggle Light/Dark Theme">
+        <!-- Moon Icon -->
+        <svg xmlns="http://www.w3.org/2000/svg" class="moon-icon" width="20" height="20" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path>
+        </svg>
+        <!-- Sun Icon -->
+        <svg xmlns="http://www.w3.org/2000/svg" class="sun-icon" width="20" height="20" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="4"></circle>
+            <path d="M12 2v2"></path>
+            <path d="M12 20v2"></path>
+            <path d="m4.93 4.93 1.41 1.41"></path>
+            <path d="m17.66 17.66 1.41 1.41"></path>
+            <path d="M2 12h2"></path>
+            <path d="M20 12h2"></path>
+            <path d="m6.34 17.66-1.41 1.41"></path>
+            <path d="m19.07 4.93-1.41 1.41"></path>
+        </svg>
+    </button>
 
     <a href="https://drive.google.com/file/d/1nD5x4G0XqnOIN0USOBdEd49ZjOta0dTI/view" target="_blank" rel="noopener noreferrer" class="download-btn" aria-label="Download CV" title="Download CV">
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
@@ -90,20 +117,20 @@
             <div class="profile-container">
                 <img src="assets/profilepicture.png" alt="Ishan Manjrekar" class="profile-img" loading="lazy">
             </div>
-            <h1>Ishan Manjrekar</h1>
-            <h3>Principal Game Designer</h3>
-            <p class="tagline">📍 Copenhagen, Denmark </p>
+            <div class="header-info">
+                <h1>Ishan Manjrekar</h1>
+                <h3>Principal Game Designer</h3>
+                <p class="tagline">📍 Copenhagen, Denmark </p>
 
-            <div class="contact-chips">
-                <a href="https://linkedin.com/in/ishanmanjrekar" class="chip" target="_blank" rel="noopener noreferrer"
-                    aria-label="Visit Ishan's LinkedIn profile">💼 LinkedIn</a>
-                <a href="https://adplist.org/mentors/ishan-manjrekar" class="chip" target="_blank"
-                    rel="noopener noreferrer" aria-label="Book a free mentorship session on ADPList">🎓 Free
-                    Mentorship</a>
-                <a href="http://gamedesignbites.substack.com" class="chip" target="_blank" rel="noopener noreferrer"
-                    aria-label="Subscribe to Ishan's Game Design Bites newsletter">📬 Newsletter</a>
-                <a href="https://podcasters.spotify.com/pod/show/playstyle" class="chip" target="_blank"
-                    rel="noopener noreferrer" aria-label="Listen to the Playstyle Podcast on Spotify">🎧 Podcast</a>
+                <div class="contact-chips">
+                    <a href="https://linkedin.com/in/ishanmanjrekar" class="chip" target="_blank" rel="noopener noreferrer"
+                        aria-label="Visit Ishan's LinkedIn profile">💼 LinkedIn</a>
+                    <a href="https://adplist.org/mentors/ishan-manjrekar" class="chip" target="_blank"
+                        rel="noopener noreferrer" aria-label="Book a free mentorship session on ADPList">🎓 Free
+                        Mentorship</a>
+                    <a href="http://gamedesignbites.substack.com" class="chip" target="_blank" rel="noopener noreferrer"
+                        aria-label="Subscribe to Ishan's Game Design Bites newsletter">📬 Newsletter</a>
+                </div>
             </div>
         </header>
 
@@ -342,7 +369,7 @@
         const navLinks = document.querySelectorAll('.nav-link');
 
         const observerOptions = {
-            threshold: 0.05,
+            threshold: 0,
             rootMargin: '0px 0px -50px 0px'
         };
 
@@ -372,6 +399,15 @@
             } else {
                 nav.classList.remove('visible');
             }
+        });
+
+        // Theme Toggle Click Handler
+        const themeBtn = document.getElementById('theme-toggle');
+        themeBtn.addEventListener('click', () => {
+            const current = document.documentElement.getAttribute('data-theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            const nextTheme = current === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', nextTheme);
+            localStorage.setItem('theme', nextTheme);
         });
     </script>
 </body>
