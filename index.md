@@ -21,6 +21,8 @@
 
 🎙️Hobbyist podcaster, exploring player behavior through the Playstyle podcast.
 
+🤖AI Explorer: Actively researching and integrating AI tools by building experimental games.
+
 ---
 ### Side Projects
 
