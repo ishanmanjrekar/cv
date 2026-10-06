@@ -9,7 +9,7 @@
 ---
 # About
 
-📌15+ years in Game Design, specializing in free-to-play mobile and web-based platforms.
+📌16+ years in Game Design, specializing in free-to-play mobile and web-based platforms.
 
 ✨Involved in games with over 5 billion cumulative installs.
 
